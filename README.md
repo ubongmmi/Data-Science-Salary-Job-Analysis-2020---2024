@@ -105,7 +105,7 @@ Average salary dipped in 2021 before climbing to a peak in 2023 and holding stea
 
 Data Engineer and Data Scientist roles dominate the dataset, together accounting for nearly 40% of all records.
 
-### 4.8 Total Salary by Job Title
+### 4.8 Total Salary by Job Title ![Data_Science Salary Job Analysis 2020-2024](data1b.jpg)
 - Data Scientist: **264M (31.76%)**
 - Data Engineer: **201M (24.15%)**
 - Machine Learning Engineer: **119M (14.35%)**
