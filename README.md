@@ -79,7 +79,7 @@ Medium-sized companies pay the highest average salary, ahead of large companies.
 
 On-site roles command the highest average pay, while hybrid roles are both the least common and the lowest paid.
 
-### 4.5 % Remote Work by Year
+### 4.5 % Remote Work by Year ![Data_Science Salary Job Analysis 2020-2024](data1a.jpg)
 - 2020: **70%**
 - 2021: **66%**
 - 2022: **57%**
