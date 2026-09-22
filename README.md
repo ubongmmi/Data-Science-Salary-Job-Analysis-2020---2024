@@ -46,7 +46,7 @@ The analysis followed these steps:
 
 ---
 
-## 4. Analysis and Findings
+## 4. Analysis and Findings  ![Data_Science Salary Job Analysis 2020-2024](data1.jpg)
 
 ### 4.1 Overall Performance (2020–2024)
 
